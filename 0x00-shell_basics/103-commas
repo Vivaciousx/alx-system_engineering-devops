@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -ampm | sort -d

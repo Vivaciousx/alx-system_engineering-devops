@@ -1,3 +1,2 @@
 #!/bin/bash
-cat /etc/passwd				2-hellofile
-tr -d cC		
+tr -d cC
